@@ -1,0 +1,10 @@
+C:\Users\forwa\source\repos\CheatMenuAssaultCubeSharp\CheatMenuAssaultCubeSharp\bin\x86\Debug\CheatMenuAssaultCubeSharp.exe.config
+C:\Users\forwa\source\repos\CheatMenuAssaultCubeSharp\CheatMenuAssaultCubeSharp\bin\x86\Debug\CheatMenuAssaultCubeSharp.exe
+C:\Users\forwa\source\repos\CheatMenuAssaultCubeSharp\CheatMenuAssaultCubeSharp\bin\x86\Debug\CheatMenuAssaultCubeSharp.pdb
+C:\Users\forwa\source\repos\CheatMenuAssaultCubeSharp\CheatMenuAssaultCubeSharp\obj\x86\Debug\CheatMenuAssaultCubeSharp.csproj.AssemblyReference.cache
+C:\Users\forwa\source\repos\CheatMenuAssaultCubeSharp\CheatMenuAssaultCubeSharp\obj\x86\Debug\CheatMenuAssaultCubeSharp.Form1.resources
+C:\Users\forwa\source\repos\CheatMenuAssaultCubeSharp\CheatMenuAssaultCubeSharp\obj\x86\Debug\CheatMenuAssaultCubeSharp.Properties.Resources.resources
+C:\Users\forwa\source\repos\CheatMenuAssaultCubeSharp\CheatMenuAssaultCubeSharp\obj\x86\Debug\CheatMenuAssaultCubeSharp.csproj.GenerateResource.cache
+C:\Users\forwa\source\repos\CheatMenuAssaultCubeSharp\CheatMenuAssaultCubeSharp\obj\x86\Debug\CheatMenuAssaultCubeSharp.csproj.CoreCompileInputs.cache
+C:\Users\forwa\source\repos\CheatMenuAssaultCubeSharp\CheatMenuAssaultCubeSharp\obj\x86\Debug\CheatMenuAssaultCubeSharp.exe
+C:\Users\forwa\source\repos\CheatMenuAssaultCubeSharp\CheatMenuAssaultCubeSharp\obj\x86\Debug\CheatMenuAssaultCubeSharp.pdb
